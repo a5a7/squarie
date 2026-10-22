@@ -15,6 +15,6 @@ This is the PCB design. The wiring took the longest time due to making sure they
 
 ## The 3D Ideal
 
-![alt text](image.png)
+![alt text](./images/image-6.png)
 
 How it would look like when certain components have been assembled properly (like the sensor, pin header, and resistor). 

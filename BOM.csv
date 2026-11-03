@@ -1,8 +1,9 @@
-Item Name,Qty,Price (total) (USD),Item,link,Notes
-XIAO ESP32-C3,1,$4.99,$4.99,Seeed Studio,Microcontroller,run the actual program.
-PCB 1,$10.00,$10.00,JLCPCB,The actual circuit board.
-MPU6050,1,$2.20,$2.20,Amazon,Figuring out it's current location.
-Keycaps,2,$0.60,$1.20,Amazon,Make it look nice (rather than the raw switch)
-Push Switches,2,$0.20,$0.40,Amazon,Giving input into the microcontroller.
-0.96 OLED Display,1,$2.50,$2.50,Amazon,Displaying the actual squarie
-DHT11 Temperature-Humidity Sensor,1,$2.00,$2.00,Amazon,Finding the temperature (so squarie knows it's surroundings)
+Item Name,Quantity,Unit Price (USD),Total Price (USD),Vendor,Notes,Link
+XIAO ESP32-C3,1,4.99,4.99,Seeed Studio,Microcontroller that runs the firmware,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+PCB,1,10.00,10.00,JLCPCB,The custom circuit board (upload Gerber_Files.zip),https://jlcpcb.com/
+MPU6050,1,2.20,2.20,Amazon,Detects tilt and shakes,https://www.amazon.com/s?k=GY-521+MPU6050
+Keycaps,2,0.60,1.20,Amazon,Covers the raw switches,https://www.amazon.com/s?k=DSA+keycaps+cherry+mx
+Push Switches,2,0.20,0.40,Amazon,Buttons for input,https://www.amazon.com/s?k=cherry+mx+switch
+0.96in OLED Display,1,2.50,2.50,Amazon,Displays Squarie,https://www.amazon.com/s?k=0.96+inch+OLED+128x64+I2C+SSD1306
+DHT11 Temperature-Humidity Sensor,1,2.00,2.00,Amazon,Lets Squarie sense its surroundings,https://www.amazon.com/s?k=DHT11+sensor
+Total,,,23.29,,,
